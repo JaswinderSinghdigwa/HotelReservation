@@ -1,0 +1,7 @@
+application:
+  name: Reservation1
+  package: Reservation1.Reservation1
+spring:
+  application:
+    name: ${application.name}
+
